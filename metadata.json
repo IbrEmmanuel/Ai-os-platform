@@ -1,0 +1,6 @@
+{
+  "name": "FutureOS Stack AI",
+  "description": "Full-stack AI Agent orchestration platform, workflow builder, RAG engine, and voice workspace console inspired by FutureOS.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
